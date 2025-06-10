@@ -10,7 +10,7 @@
   },
   {
     "serverIP": "00.168.1.10",
-    "serverPort": 2222,
+    "serverPort": 22,
     "username": "user2",
     "authenticationType": "PRIVATE_KEY",
     "password": null,
