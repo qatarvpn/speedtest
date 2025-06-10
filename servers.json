@@ -9,7 +9,7 @@
     "uuid": "11111111-1111-1111-1111-111111111111"
   },
   {
-    "serverIP": "192.168.1.10",
+    "serverIP": "00.168.1.10",
     "serverPort": 2222,
     "username": "user2",
     "authenticationType": "PRIVATE_KEY",
