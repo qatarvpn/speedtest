@@ -11,6 +11,16 @@
   },
   {
     "name": "France 2 🇫🇷",
+    "serverIP": "ssh-fr1.sshkit.org",
+    "serverPort": 22,
+    "username": "sshkit-5231065783",
+    "authenticationType": "PASSWORD",
+    "password": "mo1234",
+    "privateKey": null,
+    "uuid": "11111111-1111-1111-1111-111111111114"
+  },
+  {
+    "name": "France 3 🇫🇷",
     "serverIP": "fr.udpserv.site",
     "serverPort": 22,
     "username": "sshocean-frmo47c",
@@ -18,6 +28,76 @@
     "password": "mo1234",
     "privateKey": null,
     "uuid": "11111111-1111-1111-1111-111111111112"
+  },
+  {
+    "name": "France 4 🇫🇷",
+    "serverIP": "fr.udpserv.site",
+    "serverPort": 22,
+    "username": "sshocean-frmo47c",
+    "authenticationType": "PASSWORD",
+    "password": "mo1234",
+    "privateKey": null,
+    "uuid": "11111111-1111-1111-1111-111111111162"
+  },
+  {
+    "name": "France 5 🇫🇷",
+    "serverIP": "fr.udpserv.site",
+    "serverPort": 22,
+    "username": "sshocean-frmo47c",
+    "authenticationType": "PASSWORD",
+    "password": "mo1234",
+    "privateKey": null,
+    "uuid": "11111111-1111-1111-1111-111111111172"
+  },
+  {
+    "name": "France 6 🇫🇷",
+    "serverIP": "fr.udpserv.site",
+    "serverPort": 22,
+    "username": "sshocean-frmo47c",
+    "authenticationType": "PASSWORD",
+    "password": "mo1234",
+    "privateKey": null,
+    "uuid": "11111111-1111-1111-1111-111111111182"
+  },
+  {
+    "name": "France 7 🇫🇷",
+    "serverIP": "fr.udpserv.site",
+    "serverPort": 22,
+    "username": "sshocean-frmo47c",
+    "authenticationType": "PASSWORD",
+    "password": "mo1234",
+    "privateKey": null,
+    "uuid": "11111111-1111-1111-1111-111111111192"
+  },
+  {
+    "name": "France 8 🇫🇷",
+    "serverIP": "fr.udpserv.site",
+    "serverPort": 22,
+    "username": "sshocean-frmo47c",
+    "authenticationType": "PASSWORD",
+    "password": "mo1234",
+    "privateKey": null,
+    "uuid": "11111111-1111-1111-1111-1111111111852"
+  },
+  {
+    "name": "France 9 🇫🇷",
+    "serverIP": "fr.udpserv.site",
+    "serverPort": 22,
+    "username": "sshocean-frmo47c",
+    "authenticationType": "PASSWORD",
+    "password": "mo1234",
+    "privateKey": null,
+    "uuid": "12111111-1111-1111-1111-111111111112"
+  },
+  {
+    "name": "France 10 🇫🇷",
+    "serverIP": "fr.udpserv.site",
+    "serverPort": 22,
+    "username": "sshocean-frmo47c",
+    "authenticationType": "PASSWORD",
+    "password": "mo1234",
+    "privateKey": null,
+    "uuid": "13111111-1111-1111-1111-111111111112"
   },
   {
     "name": "Germany 1 🇩🇪",
