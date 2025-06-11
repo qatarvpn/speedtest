@@ -35,4 +35,8 @@
     "serverPort": 22,
     "username": "sshmax-nl47mpo",
     "authenticationType": "PASSWORD",
-    "password": "mo123
+    "password": "mo1234",
+    "privateKey": null,
+    "uuid": "33333333-3333-3333-3333-333333333333"
+  }
+]
