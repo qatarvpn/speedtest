@@ -11,6 +11,17 @@
     "uuid": "11111111-1111-1111-1111-111111111111"
   },
   {
+    "name": "France 2",
+    "flagUrl": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/fr.png",
+    "serverIP": "fr.udpserv.site",
+    "serverPort": 22,
+    "username": "sshocean-fr7dyt",
+    "authenticationType": "PASSWORD",
+    "password": "mo1234",
+    "privateKey": null,
+    "uuid": "11111111-1111-1111-1111-111111111111"
+  },
+  {
     "name": "Germany 1",
     "flagUrl": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/de.png",
     "serverIP": "de.sshmax.site",
