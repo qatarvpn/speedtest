@@ -68,8 +68,8 @@
     "password": "mo1234",
     "privateKey": null,
     "protocol": "HTTPS",             
-    "proxyHost": "",
-    "proxyPort": ,
+    "proxyHost": "ssh-fr1.sshkit.org",
+    "proxyPort": 8080,
     "proxyUsername": "",
     "proxyPassword": "",
     "uuid": "33333333-3333-3333-3333-333333333333"
