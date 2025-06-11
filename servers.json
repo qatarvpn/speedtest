@@ -11,9 +11,9 @@
   },
   {
     "name": "France 2 🇫🇷",
-    "serverIP": "fr33.sshocean.site",
+    "serverIP": "fr.udpserv.site",
     "serverPort": 22,
-    "username": "sshocean-fr8qr",
+    "username": "sshocean-frmo47c",
     "authenticationType": "PASSWORD",
     "password": "mo1234",
     "privateKey": null,
