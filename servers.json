@@ -1,7 +1,6 @@
 [
   {
-    "name": "France 1",
-    "flagUrl": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/fr.png",
+    "name": "🇫🇷 France 1",
     "serverIP": "ssh-fr1.sshkit.org",
     "serverPort": 22,
     "username": "sshkit-5231065783",
@@ -11,8 +10,7 @@
     "uuid": "11111111-1111-1111-1111-111111111111"
   },
   {
-    "name": "France 2",
-    "flagUrl": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/fr.png",
+    "name": "🇫🇷 France 2",
     "serverIP": "fr33.sshocean.site",
     "serverPort": 22,
     "username": "sshocean-fr8qr",
@@ -22,8 +20,7 @@
     "uuid": "11111111-1111-1111-1111-111111111112"
   },
   {
-    "name": "Germany 1",
-    "flagUrl": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/de.png",
+    "name": "🇩🇪 Germany 1",
     "serverIP": "de.sshmax.site",
     "serverPort": 22,
     "username": "sshmax-de47mop",
@@ -33,14 +30,9 @@
     "uuid": "22222222-2222-2222-2222-222222222222"
   },
   {
-    "name": "Netherlands 1",
-    "flagUrl": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/nl.png",
+    "name": "🇳🇱 Netherlands 1",
     "serverIP": "nl.sshmax.site",
     "serverPort": 22,
     "username": "sshmax-nl47mpo",
     "authenticationType": "PASSWORD",
-    "password": "mo1234",
-    "privateKey": null,
-    "uuid": "33333333-3333-3333-3333-333333333333"
-  }
-]
+    "password": "mo123
