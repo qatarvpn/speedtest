@@ -13,9 +13,9 @@
   {
     "name": "France 2",
     "flagUrl": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/fr.png",
-    "serverIP": "fr.udpserv.site",
+    "serverIP": "fr33.sshocean.site",
     "serverPort": 22,
-    "username": "sshocean-fr7dyt",
+    "username": "sshocean-fr8qr",
     "authenticationType": "PASSWORD",
     "password": "mo1234",
     "privateKey": null,
