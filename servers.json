@@ -11,6 +11,17 @@
     "uuid": "11111111-1111-1111-1111-111111111111"
   },
   {
+    "name": "Netherlands 1",
+    "flagUrl": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/nl.png",
+    "serverIP": "nl.sshmax.site",
+    "serverPort": 22,
+    "username": "sshmax-nl47mpo",
+    "authenticationType": "PASSWORD",
+    "password": "mo1234",
+    "privateKey": null,
+    "uuid": "11111111-1111-1111-1111-111111111111"
+  },
+  {
     "name": "Germany 1",
     "flagUrl": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/de.png",
     "serverIP": "de.sshmax.site",
