@@ -2,7 +2,7 @@
   {
     "name": "France 1 🇫🇷",
     "serverIP": "ssh-fr1.sshkit.org",
-    "serverPort": 442,
+    "serverPort": 22,
     "username": "sshkit-5231065783",
     "authenticationType": "PASSWORD",
     "password": "mo1234",
@@ -52,7 +52,7 @@
     "authenticationType": "PASSWORD",
     "password": "mo1234",
     "privateKey": null,
-    "protocol": "HTTP",              // مثال لخادم بروكسي HTTP
+    "protocol": "HTTP",              
     "proxyHost": "proxy.de.site",
     "proxyPort": 8080,
     "proxyUsername": "user",
@@ -67,7 +67,7 @@
     "authenticationType": "PASSWORD",
     "password": "mo1234",
     "privateKey": null,
-    "protocol": "HTTPS",             // مثال لخادم بروكسي HTTPS
+    "protocol": "HTTPS",             
     "proxyHost": "proxy.nl.site",
     "proxyPort": 443,
     "proxyUsername": "",
